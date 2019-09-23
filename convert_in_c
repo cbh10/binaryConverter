@@ -19,5 +19,5 @@ int convertBinaryToDecimal(long long n);
               decimalNumber += remainder*pow(2,i);
               ++i;
         }
-        returnn decimalNumber;
+        return decimalNumber;
 }
